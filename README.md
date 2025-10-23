@@ -1,4 +1,4 @@
-# VRCYoutubeMusicFinder
+# VRC Youtube Music Finder
 Finds youtube url for music you are playing (Works with spotify and more) No API needed.
 
 Simply download the exe in the releases.
