@@ -1,0 +1,2 @@
+winsdk; platform_system == 'Windows'
+requests
