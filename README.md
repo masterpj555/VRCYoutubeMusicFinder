@@ -1,8 +1,8 @@
 # VRC Youtube Music Finder
-Finds youtube url for music you are playing (Works with spotify and more) No API needed.
+Finds youtube url for music you are playing. No API needed, works with spotify and anything else that provides "now playing" information.
 
 Simply download the exe in the releases.
-Play some music (on spotify, etc) anything that allows you to see what is "now playing" in windows.
+Play some music  spotify, etc
 
 Click share and a matching youtube url will be copied to your clipboard!
 Window is always on top so it's easy to use with a VRChat overlay.
